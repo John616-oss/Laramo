@@ -1,0 +1,6 @@
+{
+  "name": "Laramo",
+  "description": "Interactive learning platform for programmers and IT students featuring coding challenges, DSA visualizers, personalized study plans, VS Code environment, and Git & GitHub version control simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
